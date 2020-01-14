@@ -11,3 +11,7 @@ This is new project in git
 Sample website with plenty of files for demos
 
 ## Deployment
+
+##Copyright
+
+2020 Copyright training

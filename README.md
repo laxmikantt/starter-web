@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Please fork this repo
+
 ##Copyright
 
 2020 Copyright training
